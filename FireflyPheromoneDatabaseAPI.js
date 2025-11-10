@@ -45,15 +45,15 @@
     if (!list.length) return '<p class="no-data">暂无数据</p>';
     let html = `<table class="fpdb-table"><thead>
       <tr><th>数字名称</th><th>玩家名称</th><th>段位</th><th>等级</th>
-      <th>战斗力</th><th>身价资产</th><th>萤火虫战斗率</th>
+      <th>身价资产</th><th>萤火虫战斗率</th>
       <th>人机战斗率</th><th>注册赛季</th><th>电竞成员</th></tr></thead><tbody>`;
     list.forEach(p => {
       html += `<tr>
         <td>${p.id}</td><td>${p.name}</td><td>${p.tier}</td>
-        <td>${p.level}</td><td>${p.power}</td><td>${p.value.toLocaleString()}</td>
+        <td>${p.level}</td><td>${p.value.toLocaleString()}</td>
         <td>${(p.pvpRate * 100).toFixed(1)}%</td>
         <td>${(p.pveRate * 100).toFixed(1)}%</td>
-        <td>${p.registeredSeason}</td><td>${p.isEsports ? '是' : '否'}</td>
+        <td>${p.registeredSeason}</td><td>${p.isEsports ? '是（电竞成员）' : '否（非电竞）'}</td>
       </tr>`;
     });
     html += '</tbody></table>';
