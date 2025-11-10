@@ -1,6 +1,6 @@
 /**
  * Firefly Pheromone Database API = 数据 + 搜索器
- * 数据格式：players 数组就地写死，含全部字段
+ * 数据格式：players 数组就地写死，含全部字段（已删除 power）
  */
 (function (global) {
   /* ========== 1. 数据（就地写死，上传前改这里） ========== */
@@ -40,7 +40,7 @@
     );
   }
 
-  /* ========== 3. 表格渲染（战斗率原样输出，不加 %） ========== */
+  /* ========== 3. 表格渲染（已去掉战斗力列） ========== */
   function renderTable(list) {
     if (!list.length) return '<p class="no-data">暂无数据</p>';
     let html = `<table class="fpdb-table"><thead>
