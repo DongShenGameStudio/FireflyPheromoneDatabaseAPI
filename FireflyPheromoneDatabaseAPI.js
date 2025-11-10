@@ -17,6 +17,39 @@
       isEsports: true
     },
     {
+      id: 10000001,
+      name: "未编号",
+      tier: "ERROR",
+      level: 0,
+      value: 0,
+      pvpRate: 0,
+      pveRate: 0,
+      registeredSeason: "S0",
+      isEsports: false
+    },
+    {
+      id: 10000002,
+      name: "",
+      tier: "未编号",
+      level: ERROOR,
+      value: 0,
+      pvpRate: 0,
+      pveRate: 0,
+      registeredSeason: "S0",
+      isEsports: true
+    },
+    {
+      id: 10000003,
+      name: "未编号",
+      tier: "ERROR",
+      level: 0,
+      value: 0,
+      pvpRate: 0,
+      pveRate: 0,
+      registeredSeason: "S0",
+      isEsports: false
+    },
+    {
       id: 10000000,
       name: "未编号",
       tier: "ERROR",
@@ -27,7 +60,6 @@
       registeredSeason: "S0",
       isEsports: false
     }
-    // ↑↑↑ 继续追加，每行一个对象
   ];
 
   /* ========== 2. 搜索 ========== */
@@ -49,11 +81,15 @@
       <th>人机战斗率</th><th>注册赛季</th><th>电竞成员</th></tr></thead><tbody>`;
     list.forEach(p => {
       html += `<tr>
-        <td>${p.id}</td><td>${p.name}</td><td>${p.tier}</td>
-        <td>${p.level}</td><td>${p.value.toLocaleString()}</td>
-        <td>${p.pvpRate}</td>
-        <td>${p.pveRate}</td>
-        <td>${p.registeredSeason}</td><td>${p.isEsports ? '是（电竞成员）' : '否（非电竞）'}</td>
+        <td data-label="数字名称">${p.id}</td>
+        <td data-label="玩家名称">${p.name}</td>
+        <td data-label="段位">${p.tier}</td>
+        <td data-label="等级">${p.level}</td>
+        <td data-label="身价资产">${p.value.toLocaleString()}</td>
+        <td data-label="萤火虫战斗率">${p.pvpRate}%</td>
+        <td data-label="与人机战斗率">${p.pveRate}%</td>
+        <td data-label="注册赛季">${p.registeredSeason}</td>
+        <td data-label="电竞成员">${p.isEsports ? '是' : '否'}</td>
       </tr>`;
     });
     html += '</tbody></table>';
@@ -64,6 +100,7 @@
   global.FPDB = {
     searchPlayer,
     renderTable,
-    getPlayers: () => players
+    getPlayers: () => players,
+    loadData: () => Promise.resolve() // 模拟异步加载数据
   };
 })(window);
