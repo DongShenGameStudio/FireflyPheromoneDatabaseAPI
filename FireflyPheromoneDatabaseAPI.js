@@ -69,7 +69,7 @@
       pvpRate: 10.2,
       pveRate: 3.8,
       registeredSeason: "S6",
-      isEsports: false
+      isEsports: true
     }
     // ↑↑↑ 继续追加，每行一个对象
   ];
