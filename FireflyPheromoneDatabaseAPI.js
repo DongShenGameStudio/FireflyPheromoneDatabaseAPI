@@ -10,9 +10,9 @@
       name: "东神-萤火电竞",
       tier: "黄金尉官5",
       level: 41,
-      value: 499709552,
-      pvpRate: 13.1,
-      pveRate: 6.5,
+      value: 494776363,
+      pvpRate: 12.9,
+      pveRate: 6.2,
       registeredSeason: "S6",
       isEsports: true
     },
