@@ -32,7 +32,7 @@
       name: "权威•帝天战神",
       tier: "白银士官5",
       level: 11,
-      value: 1136011476,
+      value: 1134112956,
       pvpRate: 13.0,
       pveRate: 53.0,
       registeredSeason: "S1",
