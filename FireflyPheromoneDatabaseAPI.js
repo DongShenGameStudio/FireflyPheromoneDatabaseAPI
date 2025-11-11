@@ -17,14 +17,58 @@
       isEsports: true
     },
     {
-      id: 10000000,
-      name: "未编号",
-      tier: "ERROR",
-      level: 0,
-      value: 0,
-      pvpRate: 0,
-      pveRate: 0,
-      registeredSeason: "S0",
+      id: 4805326463,
+      name: "sx恋ll",
+      tier: "黄金尉官1",
+      level: 38,
+      value: 674776957,
+      pvpRate: 5.4,
+      pveRate: 2.6,
+      registeredSeason: "S6",
+      isEsports: false
+    },
+    {
+      id: 2891430528,
+      name: "权威•帝天战神",
+      tier: "白银士官5",
+      level: 11,
+      value: 1136011476,
+      pvpRate: 13.0,
+      pveRate: 53.0,
+      registeredSeason: "S1",
+      isEsports: false
+    },
+    {
+      id: 2822505106,
+      name: "最亮的回归",
+      tier: "黄金尉官2",
+      level: 50,
+      value: 1527580304,
+      pvpRate: 17.1,
+      pveRate: 19.2,
+      registeredSeason: "S1",
+      isEsports: false
+    },
+    {
+      id: 2828373139,
+      name: "暴躁小帅哥2",
+      tier: "白银士官2",
+      level: 55,
+      value: 532538620,
+      pvpRate: 9.5,
+      pveRate: 3.1,
+      registeredSeason: "S1",
+      isEsports: false
+    },
+    {
+      id: 4825847565,
+      name: "东神-萤火",
+      tier: "青铜士兵1",
+      level: 30,
+      value: "********",
+      pvpRate: 10.2,
+      pveRate: 3.8,
+      registeredSeason: "S6",
       isEsports: false
     }
     // ↑↑↑ 继续追加，每行一个对象
