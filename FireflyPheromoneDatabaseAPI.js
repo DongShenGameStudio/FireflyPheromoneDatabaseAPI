@@ -27,6 +27,7 @@
       registeredSeason: "S0",
       isEsports: false
     }
+    // ↑↑↑ 继续追加，每行一个对象
   ];
 
   /* ========== 2. 搜索 ========== */
@@ -39,7 +40,7 @@
     );
   }
 
-  /* ========== 3. 表格渲染（已去掉战斗力列） ========== */
+  /* ========== 3. 表格渲染（已修复移动端显示问题） ========== */
   function renderTable(list) {
     if (!list.length) return '<p class="no-data">暂无数据</p>';
     let html = `<table class="fpdb-table"><thead>
@@ -54,7 +55,7 @@
         <td data-label="等级">${p.level}</td>
         <td data-label="身价资产">${p.value.toLocaleString()}</td>
         <td data-label="萤火虫战斗率">${p.pvpRate}%</td>
-        <td data-label="与人机战斗率">${p.pveRate}%</td>
+        <td data-label="人机战斗率">${p.pveRate}%</td>
         <td data-label="注册赛季">${p.registeredSeason}</td>
         <td data-label="电竞成员">${p.isEsports ? '是' : '否'}</td>
       </tr>`;
