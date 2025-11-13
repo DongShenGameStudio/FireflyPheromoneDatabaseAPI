@@ -136,6 +136,17 @@
       pveRate: 0.0,
       registeredSeason: "S2",
       isEsports: true
+    },
+    {
+      id: 2808009915,
+      name: "南疆劳模方源",
+      ier: "黄金尉官3",
+      level: 17,
+      value: "7824833178",
+      pvpRate: 1.9,
+      pveRate: 11.0,
+      registeredSeason: "S1",
+      isEsports: false
     }
     // ↑↑↑ 继续追加，每行一个对象
   ];
