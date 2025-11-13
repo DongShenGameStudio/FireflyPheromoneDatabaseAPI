@@ -76,9 +76,9 @@
       name: "东山QVQ-官号",
       tier: "青铜士兵5",
       level: 1,
-      value: "143017706",
-      pvpRate: 0.0,
-      pveRate: 0.0,
+      value: "130626777",
+      pvpRate: 8.0,
+      pveRate: 36.0,
       registeredSeason: "S1",
       isEsports: true
     }
