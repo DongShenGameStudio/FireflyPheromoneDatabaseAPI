@@ -125,6 +125,17 @@
       pveRate: 0.0,
       registeredSeason: "S2",
       isEsports: true
+    },
+    {
+      id: 2875301768,
+      name: "东山QVQ-Z号2",
+      ier: "青铜士兵5",
+      level: 4,
+      value: "20411159",
+      pvpRate: 0.0,
+      pveRate: 0.0,
+      registeredSeason: "S2",
+      isEsports: true
     }
     // ↑↑↑ 继续追加，每行一个对象
   ];
