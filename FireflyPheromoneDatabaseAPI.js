@@ -70,6 +70,17 @@
       pveRate: 3.8,
       registeredSeason: "S6",
       isEsports: true
+    },
+    {
+      id: 2822129516,
+      name: "东山QVQ-官号",
+      tier: "青铜士兵5",
+      level: 1,
+      value: "143017706",
+      pvpRate: 0.0,
+      pveRate: 0.0,
+      registeredSeason: "S1",
+      isEsports: true
     }
     // ↑↑↑ 继续追加，每行一个对象
   ];
