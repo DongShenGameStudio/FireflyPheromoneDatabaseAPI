@@ -81,6 +81,17 @@
       pveRate: 36.0,
       registeredSeason: "S1",
       isEsports: true
+    },
+    {
+      id: 2822129516,
+      name: "东山QVQ-G号",
+      tier: "因开外挂已被永久封禁",
+      level: "因开外挂已被永久封禁",
+      value: "因开外挂已被永久封禁",
+      pvpRate: "因开外挂已被永久封禁",
+      pveRate: "因开外挂已被永久封禁",
+      registeredSeason: "S0",
+      isEsports: true
     }
     // ↑↑↑ 继续追加，每行一个对象
   ];
