@@ -75,8 +75,8 @@
       id: 2822129516,
       name: "东山QVQ-官号",
       tier: "青铜士兵5",
-      level: 1,
-      value: "130626777",
+      level: 6,
+      value: "144269543",
       pvpRate: 8.0,
       pveRate: 36.0,
       registeredSeason: "S1",
@@ -91,6 +91,17 @@
       pvpRate: "因开外挂已被永久封禁",
       pveRate: "因开外挂已被永久封禁",
       registeredSeason: "S0",
+      isEsports: true
+    },
+    {
+      id: 2822129516,
+      name: "东神萤火电竞-1",
+      ier: "青铜士兵5",
+      level: 1,
+      value: "7898443",
+      pvpRate: 0.0,
+      pveRate: 0.0,
+      registeredSeason: "S6",
       isEsports: true
     }
     // ↑↑↑ 继续追加，每行一个对象
