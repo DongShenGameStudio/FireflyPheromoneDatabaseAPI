@@ -11,8 +11,8 @@
       tier: "黄金尉官5",
       level: 42,
       value: 475578005,
-      pvpRate: 12.9,
-      pveRate: 6.2,
+      pvpRate: 12.8,
+      pveRate: 6.0,
       registeredSeason: "S6",
       isEsports: true
     },
