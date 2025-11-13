@@ -147,6 +147,28 @@
       pveRate: 11.0,
       registeredSeason: "S1",
       isEsports: false
+    },
+    {
+      id: 2842562060,
+      name: "永痕的铁矿儿",
+      ier: "黄金尉官5",
+      level: 43,
+      value: "679592200",
+      pvpRate: 2.7,
+      pveRate: 8.5,
+      registeredSeason: "S2",
+      isEsports: false
+    },
+    {
+      id: 2857200374,
+      name: "五彩斑斓的黑",
+      ier: "钻石少将1",
+      level: 80,
+      value: "9795653217",
+      pvpRate: 3.9,
+      pveRate: 11.3,
+      registeredSeason: "S1",
+      isEsports: false
     }
     // ↑↑↑ 继续追加，每行一个对象
   ];
