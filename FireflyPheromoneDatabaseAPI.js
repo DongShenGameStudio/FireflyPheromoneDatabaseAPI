@@ -94,7 +94,7 @@
       isEsports: true
     },
     {
-      id: 2822129516,
+      id: 4860394684,
       name: "东神萤火电竞-1",
       ier: "青铜士兵5",
       level: 1,
@@ -102,6 +102,17 @@
       pvpRate: 0.0,
       pveRate: 0.0,
       registeredSeason: "S6",
+      isEsports: true
+    },
+    {
+      id: 2856604003,
+      name: "东山QVQ-支号",
+      ier: "青铜士兵5",
+      level: 4,
+      value: "12942702",
+      pvpRate: 0.0,
+      pveRate: 0.0,
+      registeredSeason: "S2",
       isEsports: true
     }
     // ↑↑↑ 继续追加，每行一个对象
