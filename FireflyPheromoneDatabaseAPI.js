@@ -62,12 +62,12 @@
     },
     {
       id: 4825847565,
-      name: "东神-萤火",
-      tier: "青铜士兵1",
-      level: 30,
+      name: "东神萤火电竞",
+      tier: "白银士官5",
+      level: 34,
       value: "********",
-      pvpRate: "10.2",
-      pveRate: "3.8",
+      pvpRate: "10.4",
+      pveRate: "4.0",
       registeredSeason: "S6",
       isEsports: true
     },
