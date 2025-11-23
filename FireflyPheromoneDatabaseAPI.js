@@ -65,7 +65,7 @@
       name: "东神萤火电竞-2",
       tier: "白银士官5",
       level: 34,
-      value: "********",
+      value: "87209235",
       pvpRate: "10.4",
       pveRate: "4.0",
       registeredSeason: "S6",
