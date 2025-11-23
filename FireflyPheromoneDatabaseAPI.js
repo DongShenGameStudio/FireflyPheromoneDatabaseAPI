@@ -15,11 +15,11 @@
       pveRate: "此号已被网易封控",
       registeredSeason: "S6",
       isEsports: true,
-      title: "萤火虫之王",
-      nuclearStrikeCount: 15,
-      realNameStatus: "已实名",
+      title: " ",
+      nuclearStrikeCount: 46,
+      realNameStatus: "是",
       sameRealName: "是",
-      realNameDesensitized: "张*"
+      realNameDesensitized: "陈*"
     },
     {
       id: 4805326463,
@@ -31,11 +31,11 @@
       pveRate: 2.1,
       registeredSeason: "S6",
       isEsports: false,
-      title: "新手玩家",
-      nuclearStrikeCount: 3,
-      realNameStatus: "已实名",
-      sameRealName: "否",
-      realNameDesensitized: "李*明"
+      title: " ",
+      nuclearStrikeCount: 00,
+      realNameStatus: "否",
+      sameRealName: " ",
+      realNameDesensitized: " "
     },
     {
       id: 2891430528,
@@ -47,11 +47,11 @@
       pveRate: 33.0,
       registeredSeason: "S1",
       isEsports: false,
-      title: "战神",
-      nuclearStrikeCount: 45,
-      realNameStatus: "已实名",
-      sameRealName: "是",
-      realNameDesensitized: "王*军"
+      title: " ",
+      nuclearStrikeCount: 00,
+      realNameStatus: "否",
+      sameRealName: " ",
+      realNameDesensitized: " "
     },
     {
       id: 2822505106,
@@ -63,11 +63,11 @@
       pveRate: 19.5,
       registeredSeason: "S1",
       isEsports: false,
-      title: "回归之星",
-      nuclearStrikeCount: 22,
-      realNameStatus: "已实名",
-      sameRealName: "否",
-      realNameDesensitized: "赵*华"
+      title: " ",
+      nuclearStrikeCount: 00,
+      realNameStatus: "否",
+      sameRealName: " ",
+      realNameDesensitized: " "
     },
     {
       id: 2828373139,
@@ -79,11 +79,11 @@
       pveRate: 3.1,
       registeredSeason: "S1",
       isEsports: false,
-      title: "暴躁玩家",
-      nuclearStrikeCount: 18,
-      realNameStatus: "未实名",
-      sameRealName: "否",
-      realNameDesensitized: "未实名"
+      title: " ",
+      nuclearStrikeCount: 00,
+      realNameStatus: "否",
+      sameRealName: " ",
+      realNameDesensitized: " "
     },
     {
       id: 4825847565,
@@ -96,8 +96,8 @@
       registeredSeason: "S6",
       isEsports: true,
       title: "电竞新星",
-      nuclearStrikeCount: 8,
-      realNameStatus: "已实名",
+      nuclearStrikeCount: 6,
+      realNameStatus: "是",
       sameRealName: "是",
       realNameDesensitized: "陈*"
     },
@@ -111,11 +111,11 @@
       pveRate: "此号已被网易封控_36.0",
       registeredSeason: "S1",
       isEsports: true,
-      title: "官方账号",
-      nuclearStrikeCount: 12,
-      realNameStatus: "已实名",
+      title: " ",
+      nuclearStrikeCount: 0,
+      realNameStatus: "是",
       sameRealName: "是",
-      realNameDesensitized: "刘*"
+      realNameDesensitized: "陈*发"
     },
     {
       id: 2822129516,
@@ -127,11 +127,11 @@
       pveRate: "因开外挂已被永久封禁并被网易封控",
       registeredSeason: "S0",
       isEsports: true,
-      title: "封禁账号",
-      nuclearStrikeCount: 65,
-      realNameStatus: "已实名",
+      title: " ",
+      nuclearStrikeCount: 0,
+      realNameStatus: "是",
       sameRealName: "是",
-      realNameDesensitized: "刘*"
+      realNameDesensitized: "陈*发"
     },
     {
       id: 4860394684,
@@ -143,11 +143,11 @@
       pveRate: "此号已被网易封控",
       registeredSeason: "S6",
       isEsports: true,
-      title: "新注册账号",
+      title: " ",
       nuclearStrikeCount: 0,
-      realNameStatus: "未实名",
-      sameRealName: "否",
-      realNameDesensitized: "未实名"
+      realNameStatus: "是",
+      sameRealName: "是",
+      realNameDesensitized: "陈*"
     },
     {
       id: 2856604003,
@@ -159,11 +159,11 @@
       pveRate: "此号已被网易封控",
       registeredSeason: "S2",
       isEsports: true,
-      title: "支线账号",
-      nuclearStrikeCount: 5,
-      realNameStatus: "已实名",
+      title: " ",
+      nuclearStrikeCount: 0,
+      realNameStatus: "是",
       sameRealName: "是",
-      realNameDesensitized: "刘*"
+      realNameDesensitized: "陈*发"
     },
     {
       id: 2879944704,
@@ -175,11 +175,11 @@
       pveRate: "此号已被网易封控",
       registeredSeason: "S2",
       isEsports: true,
-      title: "主号",
-      nuclearStrikeCount: 28,
-      realNameStatus: "已实名",
+      title: " ",
+      nuclearStrikeCount: 0,
+      realNameStatus: "是",
       sameRealName: "是",
-      realNameDesensitized: "刘*"
+      realNameDesensitized: "陈*发"
     },
     {
       id: 2875301768,
@@ -191,11 +191,11 @@
       pveRate: "此号已被网易封控",
       registeredSeason: "S2",
       isEsports: true,
-      title: "主号2",
-      nuclearStrikeCount: 32,
-      realNameStatus: "已实名",
+      title: " ",
+      nuclearStrikeCount: 0,
+      realNameStatus: "是",
       sameRealName: "是",
-      realNameDesensitized: "刘*"
+      realNameDesensitized: "陈*发"
     },
     {
       id: 2808009915,
@@ -207,11 +207,11 @@
       pveRate: 11.0,
       registeredSeason: "S1",
       isEsports: false,
-      title: "劳模玩家",
-      nuclearStrikeCount: 55,
-      realNameStatus: "已实名",
-      sameRealName: "否",
-      realNameDesensitized: "方*"
+      title: " ",
+      nuclearStrikeCount: 00,
+      realNameStatus: "否",
+      sameRealName: " ",
+      realNameDesensitized: " "
     },
     {
       id: 2842562060,
@@ -223,11 +223,11 @@
       pveRate: 8.5,
       registeredSeason: "S2",
       isEsports: false,
-      title: "资源收集者",
-      nuclearStrikeCount: 25,
-      realNameStatus: "已实名",
-      sameRealName: "否",
-      realNameDesensitized: "孙*"
+      title: " ",
+      nuclearStrikeCount: 00,
+      realNameStatus: "否",
+      sameRealName: " ",
+      realNameDesensitized: " "
     },
     {
       id: 2857200374,
@@ -239,11 +239,11 @@
       pveRate: 11.3,
       registeredSeason: "S1",
       isEsports: false,
-      title: "高级玩家",
-      nuclearStrikeCount: 38,
-      realNameStatus: "已实名",
-      sameRealName: "否",
-      realNameDesensitized: "周*"
+      title: " ",
+      nuclearStrikeCount: 00,
+      realNameStatus: "否",
+      sameRealName: " ",
+      realNameDesensitized: " "
     },
     {
       id: 2885471772,
@@ -255,11 +255,11 @@
       pveRate: "此号已被网易封控",
       registeredSeason: "S1",
       isEsports: true,
-      title: "非渠道账号",
-      nuclearStrikeCount: 9,
-      realNameStatus: "已实名",
+      title: " ",
+      nuclearStrikeCount: 8,
+      realNameStatus: "是",
       sameRealName: "是",
-      realNameDesensitized: "刘*"
+      realNameDesensitized: "陈*发"
     }
     // ↑↑↑ 继续追加，每行一个对象
   ];
@@ -319,14 +319,14 @@
         <th>段位</th>
         <th>等级</th>
         <th>身价资产</th>
-        <th>萤火虫战斗率</th>
-        <th>人机战斗率</th>
+        <th>与萤火虫战斗率</th>
+        <th>与人机战斗率</th>
         <th>核聚变打击次数</th>
         <th>注册赛季</th>
         <th>电竞成员</th>
-        <th>实名状态</th>
-        <th>同人实名</th>
-        <th>实名人脱敏</th>
+        <th>是否被系统检测到实名状态</th>
+        <th>是否被系统检测到同一个实名人</th>
+        <th>实名人姓名</th>
       </tr>
     </thead><tbody>`;
     
@@ -341,14 +341,14 @@
         <td data-label="段位">${p.tier}</td>
         <td data-label="等级">${p.level}</td>
         <td data-label="身价资产" class="${valueClass}">${typeof p.value === 'number' ? p.value.toLocaleString() : p.value}</td>
-        <td data-label="萤火虫战斗率">${p.pvpRate}%</td>
-        <td data-label="人机战斗率">${p.pveRate}%</td>
+        <td data-label="与萤火虫战斗率">${p.pvpRate}%</td>
+        <td data-label="与人机战斗率">${p.pveRate}%</td>
         <td data-label="核聚变打击次数" class="${nuclearClass}">${p.nuclearStrikeCount}</td>
         <td data-label="注册赛季">${p.registeredSeason}</td>
         <td data-label="电竞成员">${p.isEsports ? '是' : '否'}</td>
-        <td data-label="实名状态">${p.realNameStatus}</td>
-        <td data-label="同人实名">${p.sameRealName}</td>
-        <td data-label="实名人脱敏">${p.realNameDesensitized}</td>
+        <td data-label="是否被系统检测到实名状态">${p.realNameStatus}</td>
+        <td data-label="是否被系统检测到同一个实名人">${p.sameRealName}</td>
+        <td data-label="实名人姓名">${p.realNameDesensitized}</td>
       </tr>`;
     });
     
