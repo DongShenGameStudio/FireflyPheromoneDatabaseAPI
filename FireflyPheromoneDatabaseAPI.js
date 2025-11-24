@@ -250,7 +250,7 @@
       name: "东山QVQ-非渠道",
       tier: "青铜士兵4",
       level: 12,
-      value: 398243420,
+      value: 404543420,
       pvpRate: "13.0",
       pveRate: "35.0",
       registeredSeason: "S1",
